@@ -93,11 +93,11 @@ en: &DEFAULT_EN
         url: https://herrhanch33.github.io
         logo: assets/img/clients/creative-market.jpg
 
-  profile:
-    title: "Meet The "
+  team:
+    title: "Meet The Team"
     text: "Lorem ipsum dolor sit amet consectetur."
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
-    section: profile
+    section: team
     people:
       - name: "Chang Hee Han"
         role: "Software Developer"
