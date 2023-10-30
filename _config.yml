@@ -17,9 +17,9 @@ remote_theme: raviriley/agency-jekyll-theme
 url    : "https://herrhanch33.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 
-title      : Chang Hee's Blog
+title      : Chang Hee Han
 email      : hansy0281@gmail.com #this is also the email contact forms will go to
-description: "Chang Hee's Blog"
+description: "Chang Hee Han"
 author     : Chang Hee Han
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg

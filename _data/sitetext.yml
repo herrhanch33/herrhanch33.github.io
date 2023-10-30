@@ -11,7 +11,7 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to Chang Hee's Blog!
+    title: Welcome to My Blog!
     text: It's Nice To Meet You
     button: Tell Me More
     buttonlink: "#services"
@@ -37,32 +37,33 @@ en: &DEFAULT_EN
     section: portfolio
     closebutton: "Close Project"
 
-  timeline:
-    title: "Timeline"
-    text: "Lorem ipsum timeline"
-    section: timeline
+  Education:
+    title: "Education"
+    text: "Education Timeline"
+    section: Education
     # left is the default
     #start_align: "left"
     events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/1.jpg
+      - title: "Hamilton Wenham Regional High School"
+        year: "2007-2010"
+        desc: "Graduated with Liberal Arts
+               Located: South Hamilton, MA, USA"
+        image: assets/img/timeline/hwrhs.jpg
         alt:
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/2.jpg
+      - title: "Bunkerhill Community College"
+        year: "2013-2016"
+        desc: "Charlestown, MA, USA"
+        image: assets/img/timeline/bhcc.jpg
         alt:
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
-        image: assets/img/timeline/3.jpg
+      - title: "University of Massachusetts Boston"
+        year: "2014-2014"
+        desc: "Boston, MA, USA"
+        image: assets/img/timeline/umass.jpg
         alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
-        image: assets/img/timeline/4.jpg
+      - title: "Handong Global University"
+        year: "2019-2023"
+        desc: "Major: Computer Science & Electrical Engineering Pohang, South Korea"
+        image: assets/img/timeline/hgu.jpg
         alt:
         # you can enforce the alignment
         align: right
@@ -80,26 +81,26 @@ en: &DEFAULT_EN
     horizontal-scrolling: "" #"yes/no"
     list:
       - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
+        url: https://herrhanch33.github.io
         logo: assets/img/clients/envato.jpg
       - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
+        url: https://herrhanch33.github.io
         logo: assets/img/clients/designmodo.jpg
       - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
+        url: https://herrhanch33.github.io
         logo: assets/img/clients/themeforest.jpg
       - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
+        url: https://herrhanch33.github.io
         logo: assets/img/clients/creative-market.jpg
 
-  team:
-    title: "OUR AMAZING TEAM"
+  profile:
+    title: "Meet The "
     text: "Lorem ipsum dolor sit amet consectetur."
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
-    section: team
+    section: profile
     people:
       - name: "Chang Hee Han"
-        role: "Developer"
+        role: "Software Developer"
         image: assets/img/team/ch33.jpg
         social:
           - url: https://twitter.com/herrhanch
