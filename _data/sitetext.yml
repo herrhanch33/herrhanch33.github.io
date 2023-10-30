@@ -37,10 +37,10 @@ en: &DEFAULT_EN
     section: portfolio
     closebutton: "Close Project"
 
-  education:
-    title: "Education"
+  Timeline:
+    title: "timeline"
     text: "Education Timeline"
-    section: Timeline
+    section: timeline
     # left is the default
     #start_align: "left"
     events:
