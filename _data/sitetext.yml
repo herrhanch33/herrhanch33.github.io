@@ -38,8 +38,8 @@ en: &DEFAULT_EN
     closebutton: "Close Project"
 
   Timeline:
-    title: "timeline"
-    text: "Education Timeline"
+    title: "Timeline"
+    text: "Timeline"
     section: timeline
     # left is the default
     #start_align: "left"
@@ -48,22 +48,22 @@ en: &DEFAULT_EN
         year: "2007-2010"
         desc: "Graduated with Liberal Arts
                Located: South Hamilton, MA, USA"
-        image: assets/img/timeline/hwrhs.jpg
+        image: assets/img/timeline/1.jpg
         alt:
       - title: "Bunkerhill Community College"
         year: "2013-2016"
         desc: "Charlestown, MA, USA"
-        image: assets/img/timeline/bhcc.jpg
+        image: assets/img/timeline/2.jpg
         alt:
       - title: "University of Massachusetts Boston"
         year: "2014-2014"
         desc: "Boston, MA, USA"
-        image: assets/img/timeline/umass.jpg
+        image: assets/img/timeline/3.jpg
         alt: image alt text
       - title: "Handong Global University"
         year: "2019-2023"
         desc: "Major: Computer Science & Electrical Engineering Pohang, South Korea"
-        image: assets/img/timeline/hgu.jpg
+        image: assets/img/timeline/4.jpg
         alt:
         # you can enforce the alignment
         align: right
