@@ -54,19 +54,19 @@ en: &DEFAULT_EN
         year: "2013-2016"
         desc: "General Concentration 
         Charlestown, MA, USA"
-        image: assets/img/timeline/2.jpg
+        image: assets/img/timeline/bhcc2.jpg
         alt:
       - title: "University of Massachusetts Boston"
         year: "2014-2014"
         desc: "Biology 
         Boston, MA, USA"
-        image: assets/img/timeline/3.jpg
+        image: assets/img/timeline/umass2.jpg
         alt: image alt text
       - title: "Handong Global University"
         year: "2019-2023"
         desc: "Computer Science & Electrical Engineering
         Pohang, South Korea"
-        image: assets/img/timeline/4.jpg
+        image: assets/img/timeline/hgu.jpg
         alt:
         # you can enforce the alignment
         align: right
