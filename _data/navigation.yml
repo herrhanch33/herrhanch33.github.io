@@ -18,9 +18,9 @@ en: &DEFAULT_EN
     - title: "About"
       section: about
     - title: "Education"
-      section: education
+      section: timeline
     - title: "Profile"
-      section: profile
+      section: team
     - title: "Contact"
       section: contact
 en-US:
