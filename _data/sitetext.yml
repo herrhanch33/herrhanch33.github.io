@@ -48,7 +48,7 @@ en: &DEFAULT_EN
         year: "2007-2010"
         desc: "Liberal Arts 
         South Hamilton, MA, USA"
-        image: assets/img/timeline/1.jpg
+        image: assets/img/timeline/hwrhs.jpg
         alt:
       - title: "Bunkerhill Community College"
         year: "2013-2016"
@@ -70,7 +70,7 @@ en: &DEFAULT_EN
         alt:
         # you can enforce the alignment
         align: right
-    end: "Be Part <br> of Our <br> Story!"
+    end: "Be Part <br> of My <br> Story!"
 
   about:
     title: "About Me"
