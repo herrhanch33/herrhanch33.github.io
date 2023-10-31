@@ -40,7 +40,7 @@ en: &DEFAULT_EN
   education:
     title: "education"
     text: "Education Timeline"
-    section: education
+    section: timeline
     # left is the default
     #start_align: "left"
     events:
@@ -100,7 +100,7 @@ en: &DEFAULT_EN
     title: "Meet The Developer"
     text: "Lorem ipsum dolor sit amet consectetur."
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
-    section: profile
+    section: team
     people:
       - name: "Chang Hee Han"
         role: "Software Developer"
