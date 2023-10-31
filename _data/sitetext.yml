@@ -48,7 +48,7 @@ en: &DEFAULT_EN
         year: "2007-2010"
         desc: "Liberal Arts 
         South Hamilton, MA, USA"
-        image: assets/img/timeline/hwrhs.jpg
+        image: assets/img/timeline/hwrhs2.jpg
         alt:
       - title: "Bunkerhill Community College"
         year: "2013-2016"
@@ -70,7 +70,6 @@ en: &DEFAULT_EN
         alt:
         # you can enforce the alignment
         align: right
-    end: "Be Part <br> of My <br> Story!"
 
   about:
     title: "About Me"
@@ -97,13 +96,13 @@ en: &DEFAULT_EN
         logo: assets/img/clients/creative-market.jpg
 
   team:
-    title: "Meet The Developer"
+    title: "Meet The Engineer"
     text: "Lorem ipsum dolor sit amet consectetur."
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
     people:
       - name: "Chang Hee Han"
-        role: "Software Developer"
+        role: "Software Engineer"
         image: assets/img/team/ch33.jpg
         social:
           - url: https://twitter.com/herrhanch

@@ -1,18 +1,19 @@
 ---
-title: Project Threads
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/01-full.jpg
+title: VR Program for ADHD Children
+subtitle: 3D Virtual Reality
+image: assets/img/portfolio/vradhd.jpg
 alt: Shirts on a hanger
 
 caption:
-  title: Threads
-  subtitle: Illustration
-  thumbnail: assets/img/portfolio/01-thumbnail.jpg
+  title: VR Program for ADHD Children
+  subtitle: 3D Virtual Reality
+  thumbnail: assets/img/portfolio/vradhd.jpg
 ---
-Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
-
+VR Program for ADHD Children. The project was based on C# and Unity. Oculus Quest 2 device was used, along with PlaasticSCM, and earned a copyright as a 3D VR program.
+UCC Video: https://youtu.be/H3WkVZ2qel4?feature=shared
+Gameplay Video: https://youtu.be/bQwPEG2mA1U
 {:.list-inline}
-- Date: January 2017
-- Client: Threads
-- Category: Illustration
+- Date: 2022.08.01~2023.06.01
+- Client: Balance Brain/ADHD Children
+- Category: 3D Virtual Reality
 
