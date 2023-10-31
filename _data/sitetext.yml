@@ -37,7 +37,7 @@ en: &DEFAULT_EN
     section: portfolio
     closebutton: "Close Project"
 
-  education:
+  timeline:
     title: "education"
     text: "Education Timeline"
     section: timeline
@@ -75,7 +75,10 @@ en: &DEFAULT_EN
   about:
     title: "About Me"
     text: "My Story"
-    body: ""
+    body: "I'm Chang Hee Han, a Software Developer with a passion for Software Development. I currently work as a and spend my free time tinkering with [Your Hobbies/Interests]. This blog is a platform for me to share my insights, experiences, and projects related to [Blog's Theme]. My goal is to connect with like-minded individuals, exchange knowledge, and foster a thriving community of learners and creators.
+
+Feel free to reach out to me on [Your Social Media Links] or subscribe to this blog for updates. Thanks for stopping by!
+"
     section: about
 
   clients:
@@ -96,7 +99,7 @@ en: &DEFAULT_EN
         url: https://herrhanch33.github.io
         logo: assets/img/clients/creative-market.jpg
 
-  profile:
+  team:
     title: "Meet The Developer"
     text: "Lorem ipsum dolor sit amet consectetur."
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
