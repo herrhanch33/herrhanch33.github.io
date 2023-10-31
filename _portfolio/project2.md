@@ -1,17 +1,17 @@
 ---
 title: AI-Powered Indonesian Jakarta Housing Price Prediction Website
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/02-full.jpg
+subtitle: AI House Price Prediction
+image: assets/img/portfolio/aijakarta.jpg
 alt: Keep Exploring
 
 caption:
-  title: Explore
-  subtitle: Graphic Design
-  thumbnail: assets/img/portfolio/02-thumbnail.jpg
+  title: AI-Powered Indonesian Jakarta Housing Price Prediction Website
+  subtitle: AI House Price Prediction
+  thumbnail: assets/img/portfolio/aijakarta.jpg
 ---
 [Demo Video][https://youtu.be/7DFryPAf9b0?feature=shared]
 {:.list-inline}
-- Date: January 2017
-- Client: Explore
-- Category: Graphic Design
+- Date: 2023.03.13~2023.06.05
+- Client: Indonesians in Jakarta
+- Category: Software Engineering
 
