@@ -37,33 +37,36 @@ en: &DEFAULT_EN
     section: portfolio
     closebutton: "Close Project"
 
-  timeline:
-    title: "Timeline"
-    text: "Timeline"
-    section: timeline
+  education:
+    title: "education"
+    text: "Education Timeline"
+    section: education
     # left is the default
     #start_align: "left"
     events:
       - title: "Hamilton Wenham Regional High School"
         year: "2007-2010"
-        desc: "Graduated with Liberal Arts
-               Located: South Hamilton, MA, USA"
-        image: assets/img/timeline/1.jpg
+        desc: "Liberal Arts 
+        South Hamilton, MA, USA"
+        image: assets/img/timeline/hwrhs.jpg
         alt:
       - title: "Bunkerhill Community College"
         year: "2013-2016"
-        desc: "Charlestown, MA, USA"
-        image: assets/img/timeline/2.jpg
+        desc: "General Concentration 
+        Charlestown, MA, USA"
+        image: assets/img/timeline/bhcc.jpg
         alt:
       - title: "University of Massachusetts Boston"
         year: "2014-2014"
-        desc: "Boston, MA, USA"
-        image: assets/img/timeline/3.jpg
+        desc: "Biology 
+        Boston, MA, USA"
+        image: assets/img/timeline/umass.jpg
         alt: image alt text
       - title: "Handong Global University"
         year: "2019-2023"
-        desc: "Major: Computer Science & Electrical Engineering Pohang, South Korea"
-        image: assets/img/timeline/4.jpg
+        desc: "Computer Science & Electrical Engineering
+        Pohang, South Korea"
+        image: assets/img/timeline/hgu.jpg
         alt:
         # you can enforce the alignment
         align: right
@@ -93,11 +96,11 @@ en: &DEFAULT_EN
         url: https://herrhanch33.github.io
         logo: assets/img/clients/creative-market.jpg
 
-  team:
-    title: "Meet The Team"
+  profile:
+    title: "Meet The Developer"
     text: "Lorem ipsum dolor sit amet consectetur."
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
-    section: team
+    section: profile
     people:
       - name: "Chang Hee Han"
         role: "Software Developer"
