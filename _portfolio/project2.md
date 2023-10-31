@@ -9,7 +9,7 @@ caption:
   subtitle: AI House Price Prediction
   thumbnail: assets/img/portfolio/aijakarta.jpg
 ---
-[Demo Video][https://youtu.be/7DFryPAf9b0?feature=shared]
+[Demo Video](https://youtu.be/7DFryPAf9b0?feature=shared)
 {:.list-inline}
 - Date: 2023.03.13~2023.06.05
 - Client: Indonesians in Jakarta
