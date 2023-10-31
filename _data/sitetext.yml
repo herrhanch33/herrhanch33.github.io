@@ -73,9 +73,9 @@ en: &DEFAULT_EN
     end: "Be Part <br> of Our <br> Story!"
 
   about:
-    title: "About Us"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    title: "About Me"
+    text: "My Story"
+    body: ""
     section: about
 
   clients:
@@ -115,7 +115,7 @@ en: &DEFAULT_EN
 
   contact:
     title: "Contact Us"
-    text: "Email hansy0281@gmail.com"
+    text: "Email hansy0281@gmail.com or fill the form below"
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
