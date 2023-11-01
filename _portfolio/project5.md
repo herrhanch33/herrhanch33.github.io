@@ -1,18 +1,18 @@
 ---
-title: Smart Device and App for Elderly Living Alone
-subtitle: Smart Device and App Prototype
+title: Project Name
+subtitle: Lorem ipsum dolor sit amet consectetur.
 image: assets/img/portfolio/05-full.jpg
 alt: 
 
-caption: Smart Device and App for Elderly Living Alone
-  title: Smart Device and App Prototype
-  subtitle: SPRINT Engineering
+caption:
+  title: Window
+  subtitle: Photography
   thumbnail: assets/img/portfolio/05-thumbnail.jpg
 ---
-Prototype using SPRINT, Figma, Miro.
+Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
 
 {:.list-inline}
-- Date: 2021.08.30~2021.12.20
-- Client: Elderly/Caretaker
-- Category: SPRINT
+- Date: October 2019
+- Client: Window
+- Category: Photography
 

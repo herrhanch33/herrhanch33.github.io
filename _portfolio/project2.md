@@ -14,6 +14,7 @@ We used Machine learned AI Model to predict prices of houses in Jakarta using nu
 We worked on front end, back end, and AI Model to develop our MVT-based project.
 [GitHub](https://github.com/rielmvp/InHousePredictor)
 [Demo Video](https://www.youtube.com/watch?v=7DFryPAf9b0)
+
 {:.list-inline}
 - Date: 2023.03.13~2023.06.05
 - Client: Indonesians in Jakarta
