@@ -1,13 +1,13 @@
 ---
 title: Big Data Optimization using MySQL
 subtitle: Database Optimization
-image: assets/img/portfolio/03-full.jpg
+image: assets/img/portfolio/crud.jpg
 alt: 
 
 caption:
   title: Big Data Optimization
   subtitle: Database Optimization
-  thumbnail: assets/img/portfolio/03-thumbnail.jpg
+  thumbnail: assets/img/portfolio/crudthumb.jpg
 ---
 Database Optimization using denormalization, indexing, Docker, Datagrip, MySQL.
 
