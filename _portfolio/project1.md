@@ -2,7 +2,7 @@
 title: AI-Powered Indonesian Jakarta Housing Price Prediction Website
 subtitle: AI-Powered Housing Price Prediction
 image: assets/img/portfolio/aijakarta.jpg
-alt: Keep Exploring
+alt: 
 
 caption:
   title: AI-Powered Jakarta Housing Price Prediction

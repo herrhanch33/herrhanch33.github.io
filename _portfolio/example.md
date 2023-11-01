@@ -2,7 +2,7 @@
 title: VR Program for ADHD Children
 subtitle: 3D Virtual Reality
 image: assets/img/portfolio/vradhd.jpg
-alt: Shirts on a hanger
+alt:
 
 caption:
   title: VR Program for ADHD Children
