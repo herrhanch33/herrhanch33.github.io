@@ -16,7 +16,7 @@ Please check the videos or powerpoint slides for more info.
 [UCC Video](https://www.youtube.com/watch?v=H3WkVZ2qel4)
 [Powerpoint](https://docs.google.com/presentation/d/1SCrggnw-NtkpApecCEcljsgqxLfblr57vRKe65MiaYI/edit?usp=sharing)
 [Gameplay Video](https://www.youtube.com/watch?v=bQwPEG2mA1U)
-
+[GitHub](https://github.com/herrhanch33/VR)
 {:.list-inline}
 - Date: 2022.08.01~2023.06.01
 - Client: Balance Brain/ADHD Children
