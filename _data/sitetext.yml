@@ -31,7 +31,7 @@ en: &DEFAULT_EN
       - title: "Software"
         desc: "Slack, Discord, Confluence, Jira, GitHub, Docker, Datagrip, Unity, PlasticSCM, Figma, Miro
         Icarus Verilog, Qtspim, Apache Tomcat"
-        icon: fab fa-computer
+        icon: fas fa-computer
 
   portfolio:
     title: "Portfolio"
@@ -75,32 +75,14 @@ en: &DEFAULT_EN
 
   about:
     title: "About Me"
-    text: "My Story"
+    text: "Job Experiences"
     body: "Hello there, my name is Chang Hee Han"
     section: about
 
-  clients:
-    section: clients
-    max-height: 100px
-    horizontal-scrolling: "" #"yes/no"
-    list:
-      - title: "envato"
-        url: https://herrhanch33.github.io
-        logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
-        url: https://herrhanch33.github.io
-        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
-        url: https://herrhanch33.github.io
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://herrhanch33.github.io
-        logo: assets/img/clients/creative-market.jpg
-
   team:
-    title: "Meet The Engineer"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    title: "Profile"
+    text: "This is my profile."
+    subtext: Please feel free to connect with me via Twitter, Facebook, or Linkedin.
     section: team
     people:
       - name: "Chang Hee Han"
@@ -116,7 +98,7 @@ en: &DEFAULT_EN
 
   contact:
     title: "Contact Me"
-    text: "Fill in the form below"
+    text: "Please Feel Free to Contact Me"
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
