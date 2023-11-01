@@ -6,7 +6,7 @@ alt:
 
 caption:
   title: Big Data Optimization
-  subtitle: DB Optimization
+  subtitle: Database Optimization
   thumbnail: assets/img/portfolio/03-thumbnail.jpg
 ---
 Database Optimization using denormalization, indexing, Docker, Datagrip, MySQL.

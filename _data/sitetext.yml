@@ -79,7 +79,7 @@ en: &DEFAULT_EN
 
   team:
     title: "Profile"
-    text: "Profile"
+    text: "Thank you for visitng my profile"
     subtext: Please feel free to connect with me via Twitter, Facebook, or Linkedin.
     section: team
     people:
