@@ -24,18 +24,18 @@ en: &DEFAULT_EN
       - title: "Programming"
         desc: "C, C++, C#, Java, Python, Racket, HTML, CSS, Javascript"
         icon: fas fa-code #find more at https://fontawesome.com/icons
-      - title: "Framework and Other Experiences"
+      - title: "Framework & Others"
         desc: "Django, Anaconda, Sklearn, Kaggle, Ajax, Spring MVC, IntelliJ, Walab, JSP, Coretto, Maven, Mybatis
         , SPRINT, OpenCV, Darknet CNN, YOLO, Linux, SSH"
         icon: fas fa-laptop
       - title: "Software"
         desc: "Slack, Discord, Confluence, Jira, GitHub, Docker, Datagrip, Unity, PlasticSCM, Figma, Miro
         Icarus Verilog, Qtspim, Apache Tomcat"
-        icon: fab fa-computer-classic
+        icon: fab fa-computer
 
   portfolio:
     title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: "These are projects I have worked on"
     section: portfolio
     closebutton: "Close Project"
 
@@ -76,7 +76,7 @@ en: &DEFAULT_EN
   about:
     title: "About Me"
     text: "My Story"
-    body: "Hello there"
+    body: "Hello there, my name is Chang Hee Han"
     section: about
 
   clients:

@@ -7,11 +7,16 @@ alt: Shirts on a hanger
 caption:
   title: VR Program for ADHD Children
   subtitle: 3D Virtual Reality
-  thumbnail: assets/img/portfolio/vradhd.jpg
+  thumbnail: assets/img/portfolio/vradhdthumb.jpg
 ---
-The project was based on C# and Unity. Oculus Quest 2 device was used, along with PlaasticSCM, and earned a copyright as a 3D VR program.
+The project was based on C# and Unity. Oculus Quest 2 was used along with PlasticSCM. 
+The main objective of the project was to alleviate symptoms of ADHD using virtual reality technology
+in children age from 5 to 14. 
+Please check the videos or powerpoint slides for more info.
 [UCC Video](https://www.youtube.com/watch?v=H3WkVZ2qel4)
+[Powerpoint](https://docs.google.com/presentation/d/1SCrggnw-NtkpApecCEcljsgqxLfblr57vRKe65MiaYI/edit?usp=sharing)
 [Gameplay Video](https://www.youtube.com/watch?v=bQwPEG2mA1U)
+
 {:.list-inline}
 - Date: 2022.08.01~2023.06.01
 - Client: Balance Brain/ADHD Children
