@@ -1,17 +1,21 @@
 ---
-title: Big Data Optimization using MySQL
-subtitle: Database Optimization
-image: assets/img/portfolio/03-full.jpg
+title: AI-Powered Indonesian Jakarta Housing Price Prediction Website
+subtitle: AI-Powered Housing Price Prediction
+image: assets/img/portfolio/aijakarta.jpg
 alt: 
 
 caption:
-  title: Big Data Optimization
-  subtitle: Database Optimization
-  thumbnail: assets/img/portfolio/03-thumbnail.jpg
+  title: AI-Powered Jakarta Housing Price Prediction
+  subtitle: AI-Powered Housing Price Prediction
+  thumbnail: assets/img/portfolio/aijakartathumb.jpg
 ---
-Database Optimization using denormalization, indexing, Docker, Datagrip, MySQL.
+The project was based on Python using Django, Anaconda, Sklearn, and Kaggle. 
+We used Machine learned AI Model to predict prices of houses in Jakarta using numbers of bathrooms and bedrooms, districts, and certificates.
+We worked on front end, back end, and AI Model to develop our MVT-based project.
+[GitHub](https://github.com/rielmvp/InHousePredictor)
+[Demo Video](https://www.youtube.com/watch?v=7DFryPAf9b0)
 {:.list-inline}
 - Date: 2023.03.13~2023.06.05
-- Client: https://kubic.handong.edu
-- Category: DB
+- Client: Indonesians in Jakarta
+- Category: Software Engineering/Full Stack Development
 

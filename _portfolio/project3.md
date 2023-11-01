@@ -1,18 +1,17 @@
 ---
-title: Open Forum for Anyone to Use Freely
-subtitle: Open Forum Using CRUD
-image: assets/img/portfolio/crud1.jpg
+title: Big Data Optimization using MySQL
+subtitle: Database Optimization
+image: assets/img/portfolio/03-full.jpg
 alt: 
 
-caption: Open Forum for Anyone to Use Freely
-  title: Open Forum Using CRUD
-  subtitle: Open Forum using CRUD
-  thumbnail: assets/img/portfolio/crud.jpg
+caption:
+  title: Big Data Optimization
+  subtitle: Database Optimization
+  thumbnail: assets/img/portfolio/03-thumbnail.jpg
 ---
-The project was based on Java. Spring MVC, Intellij, Walab, GitHub, JSP, Apache Tomcat, Corretto, Maven, and MyBatis were used.
-
+Database Optimization using denormalization, indexing, Docker, Datagrip, MySQL.
 {:.list-inline}
-- Date: 2022.08.29~2022.12.19
-- Client: Open
-- Category: Class Project
+- Date: 2023.03.13~2023.06.05
+- Client: https://kubic.handong.edu
+- Category: DB
 
