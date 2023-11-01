@@ -9,7 +9,6 @@ caption: Open Forum for Anyone to Use Freely
   subtitle: Open Forum using CRUD
   thumbnail: assets/img/portfolio/crud.jpg
 ---
-
 The project was based on Java. Spring MVC, Intellij, Walab, GitHub, JSP, Apache Tomcat, Corretto, Maven, and MyBatis were used.
 
 {:.list-inline}

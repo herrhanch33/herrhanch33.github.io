@@ -10,6 +10,7 @@ caption: Smart Device and App for Elderly Living Alone
   thumbnail: assets/img/portfolio/04-thumbnail.jpg
 ---
 Prototype using SPRINT, Figma, Miro.
+
 {:.list-inline}
 - Date: 2021.08.30~2021.12.20
 - Client: Elderly/Caretaker
