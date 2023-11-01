@@ -1,24 +1,21 @@
 ---
-title: VR Program for ADHD Children
-subtitle: 3D Virtual Reality
-image: assets/img/portfolio/vradhd.jpg
-alt: Shirts on a hanger
+title: AI-Powered Jakarta Housing Price Prediction
+subtitle: AI-Powered Housing Price Prediction
+image: assets/img/portfolio/aijakarta.jpg
+alt: Keep Exploring
 
 caption:
-  title: VR Program for ADHD Children
-  subtitle: 3D Virtual Reality
-  thumbnail: assets/img/portfolio/vradhdthumb.jpg
+  title: AI-Powered Indonesian Jakarta Housing Price Prediction Website
+  subtitle: AI House Price Prediction
+  thumbnail: assets/img/portfolio/aijakartathumb.jpg
 ---
-The project was based on C# and Unity. Oculus Quest 2 was used along with PlasticSCM. 
-The main objective of the project was to alleviate symptoms of ADHD using virtual reality technology
-in children age from 5 to 14. 
-Please check the videos or powerpoint slides for more info.
-[UCC Video](https://www.youtube.com/watch?v=H3WkVZ2qel4)
-[Powerpoint](https://docs.google.com/presentation/d/1SCrggnw-NtkpApecCEcljsgqxLfblr57vRKe65MiaYI/edit?usp=sharing)
-[Gameplay Video](https://www.youtube.com/watch?v=bQwPEG2mA1U)
+The project was based on Python using Django, Anaconda, Sklearn, and Kaggle. 
+We used Machine learned AI Model to predict prices of houses in Jakarta using numbers of bathrooms and bedrooms, districts, and certificates.
+We worked on front end, back end, and AI Model to develop our MVT-based project.
 
+[Demo Video](https://www.youtube.com/watch?v=7DFryPAf9b0)
 {:.list-inline}
-- Date: 2022.08.01~2023.06.01
-- Client: Balance Brain/ADHD Children
-- Category: 3D Virtual Reality
+- Date: 2023.03.13~2023.06.05
+- Client: Indonesians in Jakarta
+- Category: Software Engineering/Full Stack Development
 

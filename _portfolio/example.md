@@ -1,22 +1,24 @@
 ---
-caption: #what displays in the portfolio grid:
-  title: Example
-  subtitle: subtitle
-  thumbnail: https://place-hold.it/400x300
-  
-#what displays when the item is clicked:
-title: Title
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: https://place-hold.it/400x300 #main image, can be a link or a file in assets/img/portfolio
-alt: image alt text
+title: VR Program for ADHD Children
+subtitle: 3D Virtual Reality
+image: assets/img/portfolio/vradhd.jpg
+alt: Shirts on a hanger
 
+caption:
+  title: VR Program for ADHD Children
+  subtitle: 3D Virtual Reality
+  thumbnail: assets/img/portfolio/vradhdthumb.jpg
 ---
-Use this area to describe your project. **Markdown** supported.
+The project was based on C# and Unity. Oculus Quest 2 was used along with PlasticSCM. 
+The main objective of the project was to alleviate symptoms of ADHD using virtual reality technology
+in children age from 5 to 14. 
+Please check the videos or powerpoint slides for more info.
+[UCC Video](https://www.youtube.com/watch?v=H3WkVZ2qel4)
+[Powerpoint](https://docs.google.com/presentation/d/1SCrggnw-NtkpApecCEcljsgqxLfblr57vRKe65MiaYI/edit?usp=sharing)
+[Gameplay Video](https://www.youtube.com/watch?v=bQwPEG2mA1U)
 
-optional info list (delete if not using):
-
-{:.list-inline} 
-- Date: 
-- Client: 
-- Category: 
+{:.list-inline}
+- Date: 2022.08.01~2023.06.01
+- Client: Balance Brain/ADHD Children
+- Category: 3D Virtual Reality
 
