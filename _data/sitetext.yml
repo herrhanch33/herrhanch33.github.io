@@ -73,8 +73,10 @@ en: &DEFAULT_EN
 
   about:
     title: "About Me"
-    text: "Job Experience"
-    body: "Hello there, my name is Chang Hee Han."
+    text: "Work Experience"
+    body: "Hello there, my name is Chang Hee Han. 
+    
+    In Apr 2011 - Feb 2013, I worked at Bonchon Inc as a supervisor maintaining technology (Security Cameras, Positouch hardware troubleshooting, Office organization), host customers, serve food, beverage, takeout, clean, and restock."
     section: about
 
   team:
