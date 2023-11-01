@@ -17,19 +17,21 @@ en: &DEFAULT_EN
     buttonlink: "#services"
 
   services:
-    title: "Services"
-    text: "Lorem ipsum"
+    title: "Skills"
+    text: "My Skills"
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "Programming"
+        desc: "C, C++, C#, Java, Python, Racket, HTML, CSS, Javascript"
+        icon: fas fa-code #find more at https://fontawesome.com/icons
+      - title: "Framework and Other Experiences"
+        desc: "Django, Anaconda, Sklearn, Kaggle, Ajax, Spring MVC, IntelliJ, Walab, JSP, Coretto, Maven, Mybatis
+        , SPRINT, OpenCV, Darknet CNN, YOLO, Linux, SSH"
         icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+      - title: "Software"
+        desc: "Slack, Discord, Confluence, Jira, GitHub, Docker, Datagrip, Unity, PlasticSCM, Figma, Miro
+        Icarus Verilog, Qtspim, Apache Tomcat"
+        icon: fab fa-computer-classic
 
   portfolio:
     title: "Portfolio"
@@ -113,8 +115,8 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
 
   contact:
-    title: "Contact Us"
-    text: "Email hansy0281@gmail.com or fill in the form below"
+    title: "Contact Me"
+    text: "Fill in the form below"
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
