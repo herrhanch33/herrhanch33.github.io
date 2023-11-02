@@ -74,7 +74,7 @@ en: &DEFAULT_EN
   about:
     title: "About Me"
     text: "Work Experience"
-    body: "Hello there, my name is Chang Hee Han. 
+    body: "Hello there, my name is Chang Hee Han."
     section: about
 
   team:
