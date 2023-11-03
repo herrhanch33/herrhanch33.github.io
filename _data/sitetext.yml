@@ -85,7 +85,7 @@ en: &DEFAULT_EN
     people:
       - name: "Chang Hee Han"
         role: "Software Engineer"
-        image: assets/img/team/ch33.jpg
+        image: assets/img/team/changhee5.jpg
         social:
           - url: https://twitter.com/herrhanch
             icon: fab fa-twitter
