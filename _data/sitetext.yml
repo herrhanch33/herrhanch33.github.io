@@ -74,9 +74,27 @@ en: &DEFAULT_EN
   about:
     title: "About Me"
     text: "Work Experience"
-    body: "Hello there, my name is Chang Hee Han."
-    section: portfolio
-    closebutton: "Close Experience"
+    body: "5CA Utrecht, Netherlands(remote)  Game Master, January, 2020 to November, 2020
+   Gameplay, billing, translation, network monitoring, and technical issue troubleshooting
+Busan Logos International Christian School, Busan, South Korea  TOEFL Teacher, January, 2019 to February 2019
+   Taught TOEFL speaking, writing, and administrative work
+Pyeongchang Olympic Committee, Pyeongchang, South Korea  Manager, February, 2018
+   Translation, management of athletes and volunteers
+Republic of Korea Marine Corps, Kanghwa, South Korea  Signaller, March, 2017 to December, 2018 
+v	Maintenance of IT and communication equipment
+Momenta Pharmaceuticals, Cambridge, MA, USA  Desktop Support Engineer, January, 2016 to September, 2016
+v	Maintenance of IT hardware, software, applications, active directory, help desk, setting up new users, IT            orientation, troubleshooting, imaging, tech support, VoIP phones.
+Bunker Hill Community College, Boston, MA, USA  Technical Assistant, January, 2015 to September, 2015
+v	Maintenance of IT hardware, software, network user groups, devices, and drives, ghost imaging, OS and software updates, complete given work orders, Help Desk, Technical Assistance, and hardware installation.
+First Choice Dental Group, Burlington, MA, USA  Dental Assistant, summer 2014
+v	Answer phone calls, set up appointments, insurance inquiries, payment, troubleshoot technological issues, setting up and assisting oral surgery, dental procedures, take oral pictures of patients, x rays, spore tests
+Beantown Hoagie, Boston, MA, USA  Supervisor Jul 2013- Feb 2014
+    Preparation of daily ingredients, serving customers food and beverage, restocking, and organizing items.
+Bonchon Inc., Allston and Harvard Sq, MA, USA  Supervisor, Apr 2011- Feb 2013
+v	Maintenance of technology (Security Cameras, Positouch hardware issues troubleshooting, Organized office), host customers, serve food, beverage, takeout, cleaning, and restocking.
+"
+    section: about
+
 
   team:
     title: "Profile"
