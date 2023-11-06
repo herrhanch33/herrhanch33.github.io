@@ -18,7 +18,7 @@ url    : "https://herrhanch33.github.io" # the base hostname & protocol for your
 baseurl: "" # the subpath of your site, e.g. /blog
 
 title      : Chang Hee Han
-email      : hansy0281@gmail.com #this is also the email contact forms will go to
+email      : #this is also the email contact forms will go to
 description: "Chang Hee Han"
 author     : Chang Hee Han
 # logo:     #optional, defaults to site title
