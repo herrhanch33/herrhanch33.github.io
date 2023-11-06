@@ -10,6 +10,7 @@ caption:
   thumbnail: assets/img/portfolio/db.jpg
 ---
 Database Optimization using denormalization, indexing, Docker, Datagrip, MySQL.
+[GitHub](https://github.com/herrhanch33/DBProject1)
 
 {:.list-inline}
 - Date: 2023.03.13~2023.06.05
