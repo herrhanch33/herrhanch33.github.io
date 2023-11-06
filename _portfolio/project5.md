@@ -1,12 +1,12 @@
 ---
 title: Smart Device and App for Elderly Living Alone
-subtitle: SPRINT, Smart Device, Mobile App Prototype, Miro, Figma 
+subtitle: SPRINT, Miro, Figma, Smart Device and Mobile App Prototype
 image: assets/img/portfolio/hyoja2.jpg
 alt: 
 
 caption:
   title: Smart Device and App for Elderly Living Alone
-  subtitle: SPRINT, Smart Device, Mobile App Prototype, Miro, Figma 
+  subtitle: SPRINT, Miro, Figma, Smart Device and Mobile App Prototype
   thumbnail: assets/img/portfolio/hyoja.jpg
 ---
 Prototype using SPRINT, Figma, Miro.

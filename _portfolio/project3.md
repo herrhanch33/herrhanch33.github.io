@@ -1,12 +1,12 @@
 ---
 title: Big Data Optimization using MySQL
-subtitle: Database Optimization using MySQL, MariaDB, Docker, DataGrip
+subtitle: Database Optimization, MySQL, MariaDB, Docker, DataGrip
 image: assets/img/portfolio/db2.jpg
 alt: 
 
 caption:
   title: Big Data Optimization
-  subtitle: Database Optimization using MySQL, MariaDB, Docker, DataGrip
+  subtitle: Database Optimization, MySQL, MariaDB, Docker, DataGrip
   thumbnail: assets/img/portfolio/dbthumb.jpg
 ---
 Database Optimization using denormalization, indexing, Docker, Datagrip, MySQL.

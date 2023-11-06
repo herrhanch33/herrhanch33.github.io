@@ -1,12 +1,12 @@
 ---
 title: AI-Powered Indonesian Jakarta Housing Price Prediction Website
-subtitle: AI-Powered Housing Price Prediction, Python(Anaconda), Django, MVT, Sklearn, Kaggle
+subtitle: AI-Powered Housing Price Prediction, Python, Anaconda, Django, MVT, Sklearn, Kaggle
 image: assets/img/portfolio/aijakarta.jpg
 alt: 
 
 caption:
   title: AI-Powered Jakarta Housing Price Prediction
-  subtitle: AI-Powered Housing Price Prediction, Python(Anaconda), Django, MVT, Sklearn, Kaggle
+  subtitle: AI-Powered Housing Price Prediction, Python, Anaconda, Django, MVT, Sklearn, Kaggle
   thumbnail: assets/img/portfolio/aijakartathumb.jpg
 ---
 The project was based on Python using Django, Anaconda, Sklearn, and Kaggle. 
