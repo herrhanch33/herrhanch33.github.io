@@ -1,12 +1,12 @@
 ---
 title: VR Program for ADHD Children
-subtitle: 3D Virtual Reality
+subtitle: Unity, C#, Oculus Quest 2, 3D Virtual Reality, ADHD
 image: assets/img/portfolio/vradhd.jpg
 alt:
 
 caption:
   title: VR Program for ADHD Children
-  subtitle: 3D Virtual Reality
+  subtitle: Unity, C#, Oculus Quest 2, 3D Virtual Reality, ADHD
   thumbnail: assets/img/portfolio/vradhdthumb.jpg
 ---
 The project was based on C# and Unity. Oculus Quest 2 was used along with PlasticSCM. 
