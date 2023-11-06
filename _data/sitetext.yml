@@ -74,7 +74,42 @@ en: &DEFAULT_EN
   about:
     title: "About Me"
     text: "Professional Experience"
-    body: ""
+    body: |
+  - **Game Master**, January 2020 to November 2020
+    - Company: Utrecht, Netherlands (remote)
+    - Responsibilities: Gameplay, billing, translation, network monitoring, and technical issue troubleshooting
+
+  - **TOEFL Teacher**, January 2019 to February 2019
+    - Company: Busan Logos International Christian School, Busan, South Korea
+    - Responsibilities: Taught TOEFL speaking, writing, and administrative work
+
+  - **Manager**, February 2018
+    - Company: Pyeongchang Olympic Committee, Pyeongchang, South Korea
+    - Responsibilities: Translation, management of athletes and volunteers
+
+  - **Signaller**, March 2017 to December 2018
+    - Company: Republic of Korea Marine Corps, Kanghwa, South Korea
+    - Responsibilities: Maintenance of IT and communication equipment
+
+  - **Desktop Support Engineer**, January 2016 to September 2016
+    - Company: Momenta Pharmaceuticals, Cambridge, MA, USA
+    - Responsibilities: Maintenance of IT hardware, software, applications, active directory, help desk, setting up new users, IT orientation, troubleshooting, imaging, tech support, VoIP phones.
+
+  - **Technical Assistant**, January 2015 to September 2015
+    - Company: Bunker Hill Community College, Boston, MA, USA
+    - Responsibilities: Maintenance of IT hardware, software, network user groups, devices, and drives, ghost imaging, OS and software updates, complete given work orders, Help Desk, Technical Assistance, and hardware installation.
+
+  - **Dental Assistant**, summer 2014
+    - Company: First Choice Dental Group, Burlington, MA, USA
+    - Responsibilities: Answer phone calls, set up appointments, insurance inquiries, payment, troubleshoot technological issues, setting up and assisting oral surgery, dental procedures, take oral pictures of patients, x rays, spore tests
+
+  - **Supervisor**, Jul 2013- Feb 2014
+    - Company: Beantown Hoagie, Boston, MA, USA
+    - Responsibilities: Preparation of daily ingredients, serving customers food and beverage, restocking, and organizing items.
+
+  - **Supervisor**, Apr 2011- Feb 2013
+    - Company: Bonchon Inc., Allston and Harvard Sq, MA, USA
+
     section: about
 
 
