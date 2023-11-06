@@ -7,7 +7,7 @@ alt:
 caption:
   title: Big Data Optimization
   subtitle: Database Optimization
-  thumbnail: assets/img/portfolio/db.jpg
+  thumbnail: assets/img/portfolio/dbthumb.jpg
 ---
 Database Optimization using denormalization, indexing, Docker, Datagrip, MySQL.
 [GitHub](https://github.com/herrhanch33/DBProject1)
