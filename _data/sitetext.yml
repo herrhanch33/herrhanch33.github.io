@@ -75,7 +75,8 @@ en: &DEFAULT_EN
     title: "About Me"
     text: "Work Experience"
     body: "Hello there, my name is Chang Hee Han."
-    section: about
+    section: portfolio
+    closebutton: "Close Experience"
 
   team:
     title: "Profile"
