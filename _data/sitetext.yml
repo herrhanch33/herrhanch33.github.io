@@ -74,7 +74,7 @@ en: &DEFAULT_EN
   about:
     title: "About Me"
     text: "Professional Experience"
-    body: |
+    body: "|
   - **Game Master**, January 2020 to November 2020
     - Company: Utrecht, Netherlands (remote)
     - Responsibilities: Gameplay, billing, translation, network monitoring, and technical issue troubleshooting
@@ -109,7 +109,7 @@ en: &DEFAULT_EN
 
   - **Supervisor**, Apr 2011- Feb 2013
     - Company: Bonchon Inc., Allston and Harvard Sq, MA, USA
-
+"
     section: about
 
 
