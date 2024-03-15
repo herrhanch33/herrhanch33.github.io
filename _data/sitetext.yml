@@ -21,19 +21,22 @@ en: &DEFAULT_EN
     text: "Technical Skills"
     section: services
     list:
-      - title: "Programming"
-        desc: "C, C++, C#, Java, Python, Racket, HTML, CSS, Javascript"
+      - title: "Programming Languages"
+        desc: "C, C++, C#, Python, Java, MySQL, HTML, CSS, Javascript"
         icon: fas fa-code #find more at https://fontawesome.com/icons
-      - title: "Framework & Others"
-        desc: "Django, Anaconda, Sklearn, Kaggle, Ajax, Spring MVC, IntelliJ, Walab, JSP, Coretto, Maven, Mybatis, SPRINT, OpenCV, Darknet CNN, YOLO, Linux, SSH"
+      - title: "Software/Tools"
+        desc: "GitHub, Git, Docker, Linux, Unity, Jira, Slack, Confluence, Notion, Discord, OpenCV, Raspberry Pi, Apache Tomcat, DataGrip, Figma, FastAI, Hugging Face, Kaggle"
         icon: fas fa-laptop
-      - title: "Software"
-        desc: "Slack, Discord, Confluence, Jira, GitHub, Docker, Datagrip, Unity, PlasticSCM, Figma, Miro, Icarus Verilog, Qtspim, Apache Tomcat"
-        icon: fas fa-desktop
+      - title: "Soft Skills"
+        desc: "Team collaboration, effective communication, problem-solving in hardware, software, and complex problems, time management, critical thinking, attention to detail"
+        icon: fas fa-person
+      - title: "Language Skills"
+        desc: "English (native level, TOEIC 960, TOEIC Speaking 170), Korean (native), Spanish (conversational)"
+        icon: fas fa-language
 
   portfolio:
     title: "Portfolio"
-    text: "Projects Worked On"
+    text: "Projects Experience"
     section: portfolio
     closebutton: "Close Project"
 
