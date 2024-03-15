@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+This is the yml file: # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
 # which you are expected to set up once and rarely edit after that.
@@ -14,36 +14,37 @@
 #theme: jekyll-agency
 remote_theme: raviriley/agency-jekyll-theme
 
-url: "https://herrhanch33.github.io"  # the base hostname & protocol for your site, e.g. http://example.com
+url  : "https://herrhanch33.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 
-title: Chang Hee Han
-email:  #this is also the email contact forms will go to
+title   : Chang Hee Han
+email   : #this is also the email contact forms will go to
 description: "Chang Hee Han"
-author: Chang Hee Han
+author   : Chang Hee Han
 # logo:   #optional, defaults to site title
  # path: assets\img\clients\creative-market.jpg
  # height: 60 #height in px, defaults to 52px
 
 locale: "en-US" # See available languages in _data/sitetext.yml
 
-analytics:
-  google: <script async src="https://www.googletagmanager.com/gtag/js?id=G-9L77ZY56JF"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
+analytics: 
+ google: <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-9L77ZY56JF"></script>
+<script>
+ window.dataLayer = window.dataLayer || [];
+ function gtag(){dataLayer.push(arguments);}
+ gtag('js', new Date());
 
-      gtag('config', 'G-9L77ZY56JF');
-    </script>
+ gtag('config', 'G-9L77ZY56JF');
+</script>#Google Analytics tracking code here
 
 collections:
-  portfolio:
+ portfolio:
 
 markdown: kramdown
 
 # Uncomment following line to use Formspree form ID based URL instead of email based URL
-# Details: https://help.formspree.io/hc/en-us/articles/360017735154-How-to prevent spam
+# Details: https://help.formspree.io/hc/en-us/articles/360017735154-How-to-prevent-spam
 formspree_form_path: "f/xbjvbape"
 plugins:
-  - jekyll-remote-theme
+ - jekyll-remote-theme
