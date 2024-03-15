@@ -27,12 +27,13 @@ en: &DEFAULT_EN
       - title: "Software/Tools"
         desc: "GitHub, Git, Docker, Linux, Unity, Jira, Slack, Confluence, Notion, Discord, OpenCV, Raspberry Pi, Apache Tomcat, DataGrip, Figma, FastAI, Hugging Face, Kaggle"
         icon: fas fa-laptop
-      - title: "Soft Skills"
-        desc: "Team collaboration, effective communication, problem-solving in hardware, software, and complex problems, time management, critical thinking, attention to detail"
-        icon: fas fa-person
       - title: "Language Skills"
         desc: "English (native level, TOEIC 960, TOEIC Speaking 170), Korean (native), Spanish (conversational)"
         icon: fas fa-language
+      - title: "Soft Skills"
+        desc: "Team collaboration, effective communication, problem-solving in hardware, software, and complex problems, time management, critical thinking, attention to detail"
+        icon: fas fa-handshake
+
 
   portfolio:
     title: "Portfolio"
