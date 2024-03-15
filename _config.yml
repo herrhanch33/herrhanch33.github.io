@@ -27,7 +27,7 @@ author: Chang Hee Han
 
 locale: "en-US" # See available languages in _data/sitetext.yml
 
-analytics: 
+analytics:
   google: <script async src="https://www.googletagmanager.com/gtag/js?id=G-9L77ZY56JF"></script>
     <script>
       window.dataLayer = window.dataLayer || [];
