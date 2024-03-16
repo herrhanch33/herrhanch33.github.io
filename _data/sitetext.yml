@@ -32,8 +32,8 @@ en: &DEFAULT_EN
         icon: fas fa-language
       - title: "Soft Skills"
         desc: "Team collaboration, effective communication, problem-solving in hardware, software, and complex problems, time management, critical thinking, attention to detail"
-        icon: fas fa-handshake      
-
+        icon: fas fa-handshake
+        
   portfolio:
     title: "Portfolio"
     text: "Projects Experience"
