@@ -2,7 +2,8 @@ name: Update Air Quality Data
 
 on:
   schedule:
-    - cron: '0 */4 * * *'  # Runs every 4 hours
+    - cron: '* * * * *'   
+    #'0 */4 * * *'  # Runs every 4 hours
 
 jobs:
   update-data:
@@ -23,6 +24,8 @@ jobs:
           pip install requests
 
       - name: Run Python script
+        env: 
+          AIR_QUALITY_API_KEY: ${{ secrets.AIR_QUALITY_API_KEY }}
         run: python air_quality.py
 
       - name: Commit changes
@@ -31,8 +34,4 @@ jobs:
           git config --local user.name "GitHub Actions"
           git add data.json
           git commit -m "Update data.json" -a
-
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          git push
