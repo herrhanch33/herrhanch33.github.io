@@ -7,6 +7,7 @@
 </head>
 <body>
     <h1>Today's Air Quality Information</h1>
+    
     <h2>Yesterday's Forecast:</h2>
     <p>Most recent data time for PM10: <span id="pm10_time"></span></p>
     <p>경북 미세먼지: <span id="pm10_info"></span></p>
@@ -21,13 +22,12 @@
     <p>PM2.5 Value (24-hour average): <span id="pm25_24hr"></span> µg/m³</p>
     <p>O3 Value: <span id="o3_value"></span> ppm</p>
 
-    <!-- You can add more text or icons as needed -->
-
     <script>
         // JavaScript code to fetch and display data
-        fetch('/data.json')  // Assumes your JSON data is stored in data.json
+        fetch('data.json')  // Assumes your JSON data is stored in data.json
             .then(response => response.json())
             .then(data => {
+                // Update HTML elements with data from data.json
                 document.getElementById('pm10_time').textContent = data.latest_pm10_time;
                 document.getElementById('pm10_info').textContent = data.pm10_info;
                 document.getElementById('o3_time').textContent = data.latest_o3_time;
