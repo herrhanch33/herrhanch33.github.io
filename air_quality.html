@@ -45,16 +45,13 @@
 <body>
     <div class="section">
         <div class="data-block">
-            <!--<p><span class="data-title">Most recent data time for PM10:</span> <span id="pm10_time" class="data-result"></span></p>-->
             <p><span class="data-title">경북 미세먼지:</span> <span id="pm10_info" class="data-result"></span></p>
-            <!--<p><span class="data-title">Most recent data time for O3:</span> <span id="o3_time" class="data-result"></span></p>-->
             <p><span class="data-title">경북 오존:</span> <span id="o3_info" class="data-result"></span></p>
         </div>
     </div>
 
     <div class="section">
         <div class="data-block">
-            <!-- <p><span class="data-title">Latest Data Time:</span> <span id="latest_time" class="data-result"></span></p>-->
             <p><span class="data-title">PM10:</span> <span id="pm10_value" class="data-result"></span> µg/m³</p>
             <p><span class="data-title">PM10 24:</span> <span id="pm10_24hr" class="data-result"></span> µg/m³</p>
             <p><span class="data-title">PM2.5:</span> <span id="pm25_value" class="data-result"></span> µg/m³</p>
@@ -69,16 +66,13 @@
             .then(response => response.json())
             .then(data => {
                 // Update HTML elements with data from data.json
-                document.getElementById('pm10_time').textContent = data.latest_pm10_time;
-                document.getElementById('pm10_info').textContent = data.pm10_info;
-                document.getElementById('o3_time').textContent = data.latest_o3_time;
-                document.getElementById('o3_info').textContent = data.o3_info;
-                document.getElementById('latest_time').textContent = data.latest_time;
-                document.getElementById('pm10_value').textContent = data.latest_pm10;
-                document.getElementById('pm10_24hr').textContent = data.latest_pm10_24hr;
-                document.getElementById('pm25_value').textContent = data.latest_pm25;
-                document.getElementById('pm25_24hr').textContent = data.latest_pm25_24hr;
-                document.getElementById('o3_value').textContent = data.latest_o3;
+                document.getElementById('pm10_info').textContent = data.pm10_info || '-';
+                document.getElementById('o3_info').textContent = data.o3_info || '-';
+                document.getElementById('pm10_value').textContent = data.latest_pm10 || '-';
+                document.getElementById('pm10_24hr').textContent = data.latest_pm10_24hr || '-';
+                document.getElementById('pm25_value').textContent = data.latest_pm25 || '-';
+                document.getElementById('pm25_24hr').textContent = data.latest_pm25_24hr || '-';
+                document.getElementById('o3_value').textContent = data.latest_o3 || '-';
             })
             .catch(error => console.error('Error fetching data:', error));
     </script>
