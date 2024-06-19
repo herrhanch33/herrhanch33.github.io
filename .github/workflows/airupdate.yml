@@ -2,8 +2,9 @@ name: Update Air Quality Data
 
 on:
   schedule:
-    - cron: '* * * * *'   
+    - cron: '*/5 * * * *'   
     #'0 */4 * * *'  # Runs every 4 hours
+    workflow_dispatch:
 
 jobs:
   update-data:
