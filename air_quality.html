@@ -5,53 +5,63 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Today's Air Quality Information</title>
     <style>
+        /* CSS styles for layout and presentation */
         body {
             font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: space-around;
+            align-items: flex-start;
+            flex-wrap: wrap;
+            padding: 20px;
         }
-        h1, h2 {
-            font-size: 1.5rem; /* Adjust as needed */
+
+        .section {
+            flex: 1 1 45%;
+            margin: 10px;
         }
-        .info-title {
-            font-size: 1rem; /* Smaller font size for titles */
-            font-weight: bold; /* Bolden titles */
-        }
-        .info-value {
-            font-size: 1.2rem; /* Adjust as needed */
-            font-weight: normal; /* Reset font weight */
-        }
+
         .data-block {
-            display: inline-block; /* Display elements horizontally */
-            width: 45%; /* Adjust width as needed */
-            margin-right: 5%; /* Add margin between blocks */
-            vertical-align: top; /* Align top */
+            display: flex;
+            flex-wrap: wrap;
+        }
+
+        .data-block p {
+            flex: 1 1 50%;
+            margin: 5px 0;
+        }
+
+        .data-title {
+            font-size: 14px;
+            font-weight: bold;
+            margin-right: 5px;
+        }
+
+        .data-result {
+            font-size: 14px;
+            font-weight: bold;
         }
     </style>
 </head>
 <body>
-    <h1>Today's Air Quality Information</h1>
-    
-    <div class="data-block">
-        <h2>Yesterday's Forecast:</h2>
-        <p>Most recent data time for PM10: <span id="pm10_time"></span></p>
-        <p class="info-title">경북 미세먼지:</p>
-        <p class="info-value" id="pm10_info"></p>
-        <p class="info-title">경북 오존상태:</p>
-        <p class="info-value" id="o3_info"></p>
+    <h1 style="text-align: center;">Today's Air Quality Information</h1>
+    <div class="section">
+        <div class="data-block">
+            <!--<p><span class="data-title">Most recent data time for PM10:</span> <span id="pm10_time" class="data-result"></span></p>-->
+            <p><span class="data-title">경북 미세먼지:</span> <span id="pm10_info" class="data-result"></span></p>
+            <p><span class="data-title">Most recent data time for O3:</span> <span id="o3_time" class="data-result"></span></p>
+            <p><span class="data-title">경북 오존상태:</span> <span id="o3_info" class="data-result"></span></p>
+        </div>
     </div>
 
-    <div class="data-block">
-        <h2>Real-time Air Quality Data:</h2>
-        <p>Latest Data Time: <span id="latest_time"></span></p>
-        <p class="info-title">PM10 Value:</p>
-        <p class="info-value" id="pm10_value"></p>
-        <p class="info-title">PM10 Value (24-hour average):</p>
-        <p class="info-value" id="pm10_24hr"></p>
-        <p class="info-title">PM2.5 Value:</p>
-        <p class="info-value" id="pm25_value"></p>
-        <p class="info-title">PM2.5 Value (24-hour average):</p>
-        <p class="info-value" id="pm25_24hr"></p>
-        <p class="info-title">O3 Value:</p>
-        <p class="info-value" id="o3_value"></p>
+    <div class="section">
+        <div class="data-block">
+            <!-- <p><span class="data-title">Latest Data Time:</span> <span id="latest_time" class="data-result"></span></p>-->
+            <p><span class="data-title">PM10 Value:</span> <span id="pm10_value" class="data-result"></span> µg/m³</p>
+            <p><span class="data-title">PM10 Value (24-hour average):</span> <span id="pm10_24hr" class="data-result"></span> µg/m³</p>
+            <p><span class="data-title">PM2.5 Value:</span> <span id="pm25_value" class="data-result"></span> µg/m³</p>
+            <p><span class="data-title">PM2.5 Value (24-hour average):</span> <span id="pm25_24hr" class="data-result"></span> µg/m³</p>
+            <p><span class="data-title">O3 Value:</span> <span id="o3_value" class="data-result"></span> ppm</p>
+        </div>
     </div>
 
     <script>
@@ -62,13 +72,14 @@
                 // Update HTML elements with data from data.json
                 document.getElementById('pm10_time').textContent = data.latest_pm10_time;
                 document.getElementById('pm10_info').textContent = data.pm10_info;
+                document.getElementById('o3_time').textContent = data.latest_o3_time;
                 document.getElementById('o3_info').textContent = data.o3_info;
                 document.getElementById('latest_time').textContent = data.latest_time;
-                document.getElementById('pm10_value').textContent = data.latest_pm10 + ' µg/m³';
-                document.getElementById('pm10_24hr').textContent = data.latest_pm10_24hr + ' µg/m³';
-                document.getElementById('pm25_value').textContent = data.latest_pm25 + ' µg/m³';
-                document.getElementById('pm25_24hr').textContent = data.latest_pm25_24hr + ' µg/m³';
-                document.getElementById('o3_value').textContent = data.latest_o3 + ' ppm';
+                document.getElementById('pm10_value').textContent = data.latest_pm10;
+                document.getElementById('pm10_24hr').textContent = data.latest_pm10_24hr;
+                document.getElementById('pm25_value').textContent = data.latest_pm25;
+                document.getElementById('pm25_24hr').textContent = data.latest_pm25_24hr;
+                document.getElementById('o3_value').textContent = data.latest_o3;
             })
             .catch(error => console.error('Error fetching data:', error));
     </script>
