@@ -1,7 +1,12 @@
+import os
 import json
 import requests
 import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta
+
+# Function to get API key from environment variable
+def get_api_key():
+    return os.getenv('AIR_QUALITY_API_KEY')
 
 # Function to get yesterday's date in the required format (yyyy-mm-dd)
 def get_yesterday_date():
@@ -23,7 +28,7 @@ def get_yesterday_forecast():
     params = {
         'searchDate': get_yesterday_date(),
         'returnType': 'xml',
-        'serviceKey': '0VhV1TCbbcxMHlB6pjqzumOa+ijbCbzPHqzztrPb8suvYQVvyj6G6yjLc7bMyPvA3XxnaNv/2L5J8wOBn8P8ng==',
+        'serviceKey': get_api_key(),
         'numOfRows': '100',
         'pageNo': '1'
     }
@@ -78,7 +83,7 @@ def get_realtime_air_quality():
         'pageNo': '1',
         'numOfRows': '100',
         'returnType': 'xml',
-        'serviceKey': '0VhV1TCbbcxMHlB6pjqzumOa+ijbCbzPHqzztrPb8suvYQVvyj6G6yjLc7bMyPvA3XxnaNv/2L5J8wOBn8P8ng==',
+        'serviceKey': get_api_key(),
         'ver': '1.1'
     }
     response = requests.get(url, params=params)
