@@ -1,9 +1,8 @@
 name: Update Air Quality Data
 
 on:
-  push:
-    branches:
-      - main  # Adjust this branch based on your repository's default branch
+  schedule:
+    - cron: '0 */4 * * *'  # Runs every 4 hours
 
 jobs:
   update-data:
