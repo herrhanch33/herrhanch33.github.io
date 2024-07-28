@@ -3,10 +3,10 @@
     "o3_info": "나쁨",
     "latest_pm10_time": "2024-07-27 23시 발표",
     "latest_o3_time": "2024-07-27 23시 발표",
-    "latest_pm10": 7.0,
-    "latest_pm10_24hr": 15.0,
-    "latest_pm25": 7.0,
-    "latest_pm25_24hr": 8.0,
-    "latest_o3": 0.018,
-    "latest_time": "2024-07-29 01:00"
+    "latest_pm10": 12.0,
+    "latest_pm10_24hr": 14.0,
+    "latest_pm25": 10.0,
+    "latest_pm25_24hr": 7.0,
+    "latest_o3": 0.015,
+    "latest_time": "2024-07-29 05:00"
 }
