@@ -3,10 +3,10 @@
     "o3_info": "보통",
     "latest_pm10_time": "2024-09-26 23시 발표",
     "latest_o3_time": "2024-09-26 23시 발표",
-    "latest_pm10": 21.0,
-    "latest_pm10_24hr": 17.0,
-    "latest_pm25": 9.0,
-    "latest_pm25_24hr": 9.0,
-    "latest_o3": 0.043,
-    "latest_time": "2024-09-27 10:00"
+    "latest_pm10": 25.0,
+    "latest_pm10_24hr": 21.0,
+    "latest_pm25": 12.0,
+    "latest_pm25_24hr": 11.0,
+    "latest_o3": 0.055,
+    "latest_time": "2024-09-27 13:00"
 }
