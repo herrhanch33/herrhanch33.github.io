@@ -1,12 +1,12 @@
 {
     "pm10_info": "좋음",
     "o3_info": null,
-    "latest_pm10_time": "2024-10-17 23시 발표",
+    "latest_pm10_time": "2024-10-18 23시 발표",
     "latest_o3_time": null,
-    "latest_pm10": 19.0,
-    "latest_pm10_24hr": 22.0,
-    "latest_pm25": 6.0,
-    "latest_pm25_24hr": 10.0,
-    "latest_o3": 0.042,
-    "latest_time": "2024-10-19 04:00"
+    "latest_pm10": 16.0,
+    "latest_pm10_24hr": 16.0,
+    "latest_pm25": 4.0,
+    "latest_pm25_24hr": 6.0,
+    "latest_o3": 0.048,
+    "latest_time": "2024-10-19 10:00"
 }
