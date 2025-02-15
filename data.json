@@ -1,12 +1,12 @@
 {
     "pm10_info": "보통",
     "o3_info": null,
-    "latest_pm10_time": "2025-02-13 23시 발표",
+    "latest_pm10_time": "2025-02-14 23시 발표",
     "latest_o3_time": null,
-    "latest_pm10": 62.0,
-    "latest_pm10_24hr": 60.0,
-    "latest_pm25": 34.0,
-    "latest_pm25_24hr": 28.0,
-    "latest_o3": 0.036,
-    "latest_time": "2025-02-15 05:00"
+    "latest_pm10": 83.0,
+    "latest_pm10_24hr": 61.0,
+    "latest_pm25": 47.0,
+    "latest_pm25_24hr": 34.0,
+    "latest_o3": 0.034,
+    "latest_time": "2025-02-15 10:00"
 }
