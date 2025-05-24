@@ -1,12 +1,12 @@
 {
     "pm10_info": "좋음",
     "o3_info": "보통",
-    "latest_pm10_time": "2025-05-22 23시 발표",
-    "latest_o3_time": "2025-05-22 23시 발표",
-    "latest_pm10": 34.0,
-    "latest_pm10_24hr": 35.0,
-    "latest_pm25": 19.0,
-    "latest_pm25_24hr": 21.0,
-    "latest_o3": 0.052,
-    "latest_time": "2025-05-24 05:00"
+    "latest_pm10_time": "2025-05-23 23시 발표",
+    "latest_o3_time": "2025-05-23 23시 발표",
+    "latest_pm10": 28.0,
+    "latest_pm10_24hr": 33.0,
+    "latest_pm25": 11.0,
+    "latest_pm25_24hr": 17.0,
+    "latest_o3": 0.044,
+    "latest_time": "2025-05-24 10:00"
 }
