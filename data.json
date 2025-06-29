@@ -1,12 +1,12 @@
 {
     "pm10_info": "좋음",
     "o3_info": "나쁨",
-    "latest_pm10_time": "2025-06-27 23시 발표",
-    "latest_o3_time": "2025-06-27 23시 발표",
-    "latest_pm10": 40.0,
-    "latest_pm10_24hr": 42.0,
-    "latest_pm25": 25.0,
-    "latest_pm25_24hr": 26.0,
-    "latest_o3": 0.022,
-    "latest_time": "2025-06-29 05:00"
+    "latest_pm10_time": "2025-06-28 23시 발표",
+    "latest_o3_time": "2025-06-28 23시 발표",
+    "latest_pm10": 34.0,
+    "latest_pm10_24hr": 35.0,
+    "latest_pm25": 21.0,
+    "latest_pm25_24hr": 24.0,
+    "latest_o3": 0.041,
+    "latest_time": "2025-06-29 10:00"
 }
