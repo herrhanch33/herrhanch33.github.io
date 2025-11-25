@@ -3,10 +3,10 @@
     "o3_info": null,
     "latest_pm10_time": "2025-11-24 23시 발표",
     "latest_o3_time": null,
-    "latest_pm10": 64.0,
-    "latest_pm10_24hr": 65.0,
-    "latest_pm25": 47.0,
-    "latest_pm25_24hr": 43.0,
-    "latest_o3": 0.041,
-    "latest_time": "2025-11-25 17:00"
+    "latest_pm10": 37.0,
+    "latest_pm10_24hr": 53.0,
+    "latest_pm25": 28.0,
+    "latest_pm25_24hr": 37.0,
+    "latest_o3": 0.035,
+    "latest_time": "2025-11-25 21:00"
 }
