@@ -1,12 +1,12 @@
 {
-    "pm10_info": "좋음",
+    "pm10_info": "보통",
     "o3_info": null,
-    "latest_pm10_time": "2026-01-05 23시 발표",
+    "latest_pm10_time": "2026-01-06 23시 발표",
     "latest_o3_time": null,
-    "latest_pm10": 21.0,
-    "latest_pm10_24hr": 19.0,
-    "latest_pm25": 21.0,
-    "latest_pm25_24hr": 15.0,
-    "latest_o3": 0.034,
-    "latest_time": "2026-01-07 05:00"
+    "latest_pm10": 39.0,
+    "latest_pm10_24hr": 28.0,
+    "latest_pm25": 27.0,
+    "latest_pm25_24hr": 22.0,
+    "latest_o3": 0.038,
+    "latest_time": "2026-01-07 10:00"
 }
