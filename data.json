@@ -4,9 +4,9 @@
     "latest_pm10_time": "2026-06-05 23시 발표",
     "latest_o3_time": "2026-06-05 23시 발표",
     "latest_pm10": 16.0,
-    "latest_pm10_24hr": 18.0,
-    "latest_pm25": 8.0,
+    "latest_pm10_24hr": 17.0,
+    "latest_pm25": 7.0,
     "latest_pm25_24hr": 9.0,
-    "latest_o3": 0.059,
-    "latest_time": "2026-06-06 15:00"
+    "latest_o3": 0.057,
+    "latest_time": "2026-06-06 18:00"
 }
