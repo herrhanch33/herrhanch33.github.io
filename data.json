@@ -3,10 +3,10 @@
     "o3_info": "나쁨",
     "latest_pm10_time": "2026-06-28 23시 발표",
     "latest_o3_time": "2026-06-28 23시 발표",
-    "latest_pm10": 12.0,
+    "latest_pm10": 11.0,
     "latest_pm10_24hr": 12.0,
-    "latest_pm25": 3.0,
+    "latest_pm25": 5.0,
     "latest_pm25_24hr": 4.0,
-    "latest_o3": 0.021,
-    "latest_time": "2026-06-29 24:00"
+    "latest_o3": 0.02,
+    "latest_time": "2026-06-30 02:00"
 }
